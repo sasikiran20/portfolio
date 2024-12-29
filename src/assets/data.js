@@ -42,12 +42,12 @@ export const showcase = {
     {
       name: 'Antique Store',
       link: 'https://github.com/sasikiran20/Hack2Skill/',
-      image: '/images/antique.jpeg',
+      image: 'images/antique.jpeg',
     },
     {
       name: 'Cine Connect',
       link: 'https://github.com/sasikiran20/Cine_Connect/',
-      image: '/images/cineconnect.jpeg',
+      image: 'images/cineconnect.jpeg',
     },
     {
       name: 'Serverless Chatbox',
@@ -57,22 +57,22 @@ export const showcase = {
     {
       name: 'Trading Pit',
       link: 'https://github.com/sasikiran20/Stock_Management_System/',
-      image: '/images/trading.jpeg',
+      image: 'images/trading.jpeg',
     },
     {
       name: 'Energy Saving Monitoring',
       link: 'https://github.com/sasikiran20/Energy-Saving-Monitoring/',
-      image: '/images/energy.jpeg',
+      image: 'images/energy.jpeg',
     },
     {
       name: 'University Information Bank',
       link: 'https://github.com/sasikiran20/reactsihfront/',
-      image: '/images/aiud.jpeg',
+      image: 'images/aiud.jpeg',
     },
     {
       name: 'Event Management System',
       link: 'https://github.com/sasikiran20/Event_Management_System/',
-      image: '/images/event.jpeg',
+      image: 'images/event.jpeg',
     },
   ],
 };
@@ -85,49 +85,49 @@ export const works = {
       name: 'Certified Ethical Hacker',
       link: 'https://aspen.eccouncil.org/VerifyBadge?type=certification&a=loAXNzvMzr0pSuIKMFfGkK6DNxKmxC8XxonrEou5z/k=',
       tags: null,
-      image: '/images/cert1.jpeg',
+      image: 'images/cert1.jpeg',
     },
     {
       name: 'AWS Certified Solutions Architect - Associate',
       link: 'https://www.credly.com/badges/cedb29ee-f94c-4578-bf04-6df4aa472c26',
       tags: null,
-      image: '/images/cert2.png',
+      image: 'images/cert2.png',
     },
     {
       name: 'AWS Certified Cloud Practitioner',
       link: 'https://www.credly.com/badges/67a0c708-c2a4-40c5-9023-195bf2f5e124',
       tags: null,
-      image: '/images/cert3.png',
+      image: 'images/cert3.png',
     },
     {
       name: 'Building Cloud Computing Solutions at Scale',
       link: 'https://www.coursera.org/account/accomplishments/specialization/8W924LYLH4PR/',
       tags: null,
-      image: '/images/cert8.png',
+      image: 'images/cert8.png',
     },
     {
       name: 'Red Hat Certified Enterprise Application Developer',
       link: 'https://www.credly.com/badges/d58af230-6ef4-4fe3-855f-66a68cbe0db8/',
       tags: null,
-      image: '/images/cert4.png',
+      image: 'images/cert4.png',
     },
     {
       name: 'Google Cloud Certified Associate Cloud Engineer',
       link: 'https://www.credential.net/e7093629-4404-488a-b67b-bee6d1ff19bf/',
       tags: null,
-      image: '/images/cert5.png',
+      image: 'images/cert5.png',
     },
     {
       name: 'Cloud & DevOps',
       link: 'https://certificates.epam.com/certificates/ce592400-5781-448a-95dd-3a9af4e26ea1/',
       tags: null,
-      image: '/images/cert6.jpeg',
+      image: 'images/cert6.jpeg',
     },
     {
       name: 'Parallel, Concurrent, and Distributed Programming in Java',
       link: 'https://www.coursera.org/account/accomplishments/specialization/8WCZBHQ7E3TA/',
       tags: null,
-      image: '/images/cert7.png',
+      image: 'images/cert7.png',
     }
   ],
 };
