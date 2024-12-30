@@ -160,7 +160,6 @@ export const contacts = [
   { link: 'tel:+918008343369', name: 'Phone: +91 8008 343 369' },
   { link: 'https://www.linkedin.com/in/sasikirannallapu/', name: 'Linkedin' },
   { link: 'https://github.com/sasikiran20/', name: 'Github' },
-  { link: 'https://www.hackerearth.com/@sasikirannallapu/', name: 'HackerEarth' },
   { link: 'https://leetcode.com/u/sasikirannallapu/', name: 'LeetCode' },
 ];
 
